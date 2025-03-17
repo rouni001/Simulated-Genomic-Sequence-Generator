@@ -155,6 +155,11 @@ To generate the simulated genomic sequences (using default parameters), run the 
 python3 main.py
 ```
 
+
+## Next Step / Releases
+
+The next release should explore novels concept to improve reliability, repeatability and speed. For instance, the diffusion models.
+
 ## License
 
 This project is licensed under the MIT License.
