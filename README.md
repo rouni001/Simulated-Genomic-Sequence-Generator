@@ -10,6 +10,9 @@ This package generates simulated genomic sequences using a Transformer-based arc
 
 - **October 15, 2024**
 
+## Version 
+v0.1
+
 ## Introduction
 
 In genomic research, access to large, diverse, and high-quality datasets is crucial for developing robust algorithms and models. However, obtaining real genomic data can be challenging due to issues like privacy concerns, data scarcity, or ethical restrictions. Synthetic genomic datasets play a critical role in overcoming these limitations. By generating artificial data that closely resembles real genomic sequences, researchers can test and validate models in a controlled environment, refine bioinformatics tools, and simulate experimental conditions. The ability to generate synthetic datasets is particularly useful for applications such as testing sequence alignment algorithms, validating variant calling methods, and improving machine learning models for genomic prediction tasks.
