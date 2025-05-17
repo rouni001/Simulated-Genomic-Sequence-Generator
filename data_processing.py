@@ -1,3 +1,6 @@
+# Author: Rachid Ounit, Ph.D
+# version: 0.1.0.0.
+
 import os
 import torch
 from torch.utils.data import Dataset
