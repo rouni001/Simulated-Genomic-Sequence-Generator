@@ -1,3 +1,6 @@
+# Author: Rachid Ounit, Ph.D
+# version: 0.1.0.0.
+
 import torch
 from torch.utils.data import DataLoader
 from typing import Optional
