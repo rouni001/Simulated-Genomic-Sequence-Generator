@@ -1,3 +1,6 @@
+# author: Rachid Ounit
+# version: 0.1.0.0
+
 import torch
 import torch.nn as nn
 import math
